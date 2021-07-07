@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-deep-set",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Set a nested property value.",
   "license": "Apache-2.0",
   "author": {
