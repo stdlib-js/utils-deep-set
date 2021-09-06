@@ -257,6 +257,13 @@ console.log( data );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/deep-get`][@stdlib/utils/deep-get]: get a nested property value.
+-   [`@stdlib/utils/deep-pluck`][@stdlib/utils/deep-pluck]: extract a nested property value from each element of an object array.
+
 </section>
 
 <!-- /.related -->
@@ -317,6 +324,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-deep-set/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/deep-get]: https://github.com/stdlib-js/utils-deep-get
+
+[@stdlib/utils/deep-pluck]: https://github.com/stdlib-js/utils-deep-pluck
+
+<!-- </related-links> -->
 
 </section>
 
