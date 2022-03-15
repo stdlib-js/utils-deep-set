@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-deep-set",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Set a nested property value.",
   "license": "Apache-2.0",
   "author": {
@@ -44,6 +44,7 @@
     "@stdlib/assert-is-object-like": "^0.0.x",
     "@stdlib/assert-is-plain-object": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
   },
