@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-deep-set/tags). For example,
+
+```javascript
 import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@v0.1.1-esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@esm/index.mjs';
 ```
 
 #### deepSet( obj, path, value\[, options] )
@@ -233,7 +238,7 @@ console.log( obj );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@v0.1.1-esm/index.mjs';
+import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@esm/index.mjs';
 
 var data;
 var bool;
