@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@deno/mod.js';
+import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@v0.1.1-deno/mod.js';
 ```
 
 #### deepSet( obj, path, value\[, options] )
@@ -228,7 +228,7 @@ console.log( obj );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@deno/mod.js';
+import deepSet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-set@v0.1.1-deno/mod.js';
 
 var data;
 var bool;
